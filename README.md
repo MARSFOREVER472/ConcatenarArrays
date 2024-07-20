@@ -16,4 +16,4 @@
 
 - **_Si te interesa aprender a programar o desarrollar aplicaciones con Javascript, debes saber manipular los Arrays de datos que suelen aparecer con mucha frecuencia en los códigos de Javascript._**
 
-En este caso, para combinar Arrays en JS, estaremos usando dos variaciones del método concat de Javascript.
+En este caso, para combinar Arrays en JS, estaremos usando dos variaciones del método concat en Javascript.
