@@ -13,4 +13,5 @@
 - **_Aprende a cómo combinar, concatenar y/o unir simultáneamente 2 arreglos utilizando Javascript._**
   
 - **_En este proyecto te vamos a presentar 3 maneras diferentes de combinar y/o concatenar Arrays en Javascript._**
+
 Si te interesa aprender a programar o desarrollar aplicaciones con Javascript, debes saber manipular los Arrays de datos que suelen aparecer con mucha frecuencia en los códigos de Javascript.
