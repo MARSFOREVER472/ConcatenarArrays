@@ -18,4 +18,4 @@
 
 - **_En este caso, para combinar Arrays en JS, estaremos usando dos variaciones del método ```concat``` en un archivo Javascript._**
 
-- **_Y también usaremos el Operador Spread (en inglés, Spread-Operator), que fue introducido recientemente al lenguaje Javascript, en su versión ES6._**
+- **_Y también usaremos el conocido Operador Spread (en inglés, Spread-Operator), que fue introducido recientemente al lenguaje Javascript, en su versión ES6._**
