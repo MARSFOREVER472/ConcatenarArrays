@@ -17,4 +17,4 @@
 - **_Si te interesa aprender a programar o desarrollar aplicaciones con Javascript, debes saber manipular los Arrays de datos que suelen aparecer con mucha frecuencia en los códigos de Javascript._**
 
 - **_En este caso, para combinar Arrays en JS, estaremos usando dos variaciones del método ```concat``` en un archivo Javascript._**
-Y también usaremos el Operador Spread (en inglés, Spread Operator), que fue introducido recientemente al lenguaje Javascript, en su versión ES6.
+- Y también usaremos el Operador Spread (en inglés, Spread Operator), que fue introducido recientemente al lenguaje Javascript, en su versión ES6.
