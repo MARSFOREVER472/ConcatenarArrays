@@ -12,4 +12,4 @@
   
 - **_Aprende a cómo combinar, concatenar y/o unir simultáneamente 2 arreglos utilizando Javascript._**
   
-- _En este proyecto te vamos a presentar 3 maneras diferentes de combinar y/o concatenar Arrays en Javascript._
+- **_En este proyecto te vamos a presentar 3 maneras diferentes de combinar y/o concatenar Arrays en Javascript._**
