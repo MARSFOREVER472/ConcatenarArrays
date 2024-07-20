@@ -11,4 +11,4 @@
 - **_Trucos mediante archivos utilizando Javascript que debes de conocer hoy en día..._**
   
 - **_Aprende a cómo combinar, concatenar y/o unir simultáneamente 2 arreglos utilizando Javascript._**
-En este proyecto te vamos a presentar 3 maneras diferentes de combinar / concatenar Arrays en Javascript.
+En este proyecto te vamos a presentar 3 maneras diferentes de combinar y/o concatenar Arrays en Javascript.
