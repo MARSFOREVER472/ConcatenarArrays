@@ -3,4 +3,4 @@
 ## **_ARRAYS EN JAVASCRIPT!_**
 
 ### **_Programación utilizando Javascript:_**
-- Cómo concatenar / combinar 2 Arrays en Javascript.
+- Cómo concatenar / combinar 2 arreglos en Javascript.
