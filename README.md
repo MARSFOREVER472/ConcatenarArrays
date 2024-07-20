@@ -4,4 +4,4 @@
 
 ### **_Programación utilizando Javascript:_**
 
-- Cómo concatenar / combinar 2 arreglos utilizando Javascript.
+- _Cómo concatenar / combinar 2 arreglos utilizando Javascript._
