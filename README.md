@@ -6,3 +6,4 @@
 
 - **_Cómo concatenar y/o combinar 2 arreglos utilizando Javascript._**
 - **_Aprende a programar en Javascript._**
+Trucos con Javascript que debes conocer
